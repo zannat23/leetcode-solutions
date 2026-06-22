@@ -7,6 +7,7 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
+        
         i = m - 1
         j = n - 1
         k = m + n - 1
@@ -18,7 +19,6 @@ class Solution(object):
             else:
                 nums1[k] = nums2[j]
                 j -= 1
-
             k -= 1
 
         while j >= 0:
