@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zannat23/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/zannat23/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/zannat23/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/zannat23/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/zannat23/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/zannat23/leetcode-solutions/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/zannat23/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -111,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/zannat23/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/zannat23/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/zannat23/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/zannat23/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/zannat23/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zannat23/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/zannat23/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/zannat23/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
